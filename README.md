@@ -1,6 +1,9 @@
 # Awesome Roadmaps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome software development roadmaps
 
+### Free Tutorials
+[Tech Roadmap](https://www.techroadmap.in/language/cpp-developer/overview/)
+
 ### Roadmaps
 * [Go developer roadmap 2019](https://github.com/Alikhll/golang-developer-roadmap)
 * [Web developer roadmap 2019](https://github.com/kamranahmedse/developer-roadmap)
